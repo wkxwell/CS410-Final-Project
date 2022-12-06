@@ -7,7 +7,7 @@ Dependencies:
 * The application is written using a Python 3.9.12
 
 ```python
-  git clone https://github.com/wkxwell/CS410FinalProject.git
+  git clone https://github.com/wkxwell/CS410-Final-Project.git
   conda create --name senProj python=3.9.12
   conda activate senProj
 ```
